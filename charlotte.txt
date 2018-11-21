@@ -1,2 +1,4 @@
 Charlotte
+<<<<<<< HEAD
 Line 2
+bmc was here !!!
